@@ -1,0 +1,1 @@
+DELETE FROM Etudiant WHERE id = 3;
